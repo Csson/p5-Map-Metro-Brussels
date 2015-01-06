@@ -1,0 +1,46 @@
+--stations
+Simonis
+Osseghem
+Beekkant
+Gare de l’Ouest
+Delacroix
+Clemenceau
+Gare du Midi
+Porte de Hal
+Hôtel des Monnaies
+Louise
+Porte de Namur
+Trône
+Arts-Loi
+Madou
+Botanique
+Rogier
+Yser
+Ribaucourt
+Elisabeth
+
+--lines
+L2|L2|Line 2|color:#ff8306
+
+--transfers
+Simonis|Elisabeth
+
+--segments
+L2|Simonis|Osseghem
+L2|Osseghem|Beekkant
+L2|Beekkant|Gare de l’Ouest
+L2|Gare de l’Ouest|Delacroix
+L2|Delacroix|Clemenceau
+L2|Clemenceau|Gare du Midi
+L2|Gare du Midi|Porte de Hal
+L2|Porte de Hal|Hôtel des Monnaies
+L2|Hôtel des Monnaies|Louise
+L2|Louise|Porte de Namur
+L2|Porte de Namur|Trône
+L2|Trône|Arts-Loi
+L2|Arts-Loi|Madou
+L2|Madou|Botanique
+L2|Botanique|Rogier
+L2|Rogier|Yser
+L2|Yser|Ribaucourt
+L2|Ribaucourt|Elisabeth
