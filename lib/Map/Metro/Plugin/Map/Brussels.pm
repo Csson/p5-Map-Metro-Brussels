@@ -39,6 +39,7 @@ See L<Map::Metro> for usage information.
 =head1 Status
 
 This map includes:
+
 =for :list
 * The four metro lines I<L1>, I<L2>, I<L5> and I<L6> [L<wikipedia|https://en.wikipedia.org/wiki/Brussels_Metro>]
 * The I<T3> tram line, but only between I<Gare du Nord/Noordstation> and I<Albert> [L<wikipedia|https://en.wikipedia.org/wiki/Brussels_tram_route_3>]
