@@ -6,7 +6,7 @@ package Map::Metro::Plugin::Map::Brussels;
 
 # ABSTRACT: Map::Metro map for Brussels
 # AUTHORITY
-our $VERSION = '0.1002';
+our $VERSION = '0.1003';
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
