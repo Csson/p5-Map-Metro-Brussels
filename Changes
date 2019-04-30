@@ -1,7 +1,8 @@
 Revision history for Map-Metro-Plugin-Map-Brussels
 
 {{$NEXT}}
- [API Changes]
+ [Other Changes]
+ - Rebuilt with current dzil configuration.
 
  [Bug Fixes]
 
