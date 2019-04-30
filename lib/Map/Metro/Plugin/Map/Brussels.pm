@@ -4,8 +4,9 @@ use warnings;
 
 package Map::Metro::Plugin::Map::Brussels;
 
-# VERSION
 # ABSTRACT: Map::Metro map for Brussels
+# AUTHORITY
+our $VERSION = '0.1002';
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
